@@ -1,4 +1,4 @@
-#Face Flashcard Generator
+
 
 
 A simple Python project that uses the Hugging Face API to generate flashcards on any topic using an AI model.
